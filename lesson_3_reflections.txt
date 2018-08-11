@@ -5,3 +5,11 @@ When would you want to create a remote repository rather than keeping all your w
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 1. You may want to test changes first before trying out new code that has been changed, and then merge your changes in.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+1. Forks make a copy of someone else's code that can be used when you want to make changes, but not modify their code.
+2. Clones made a copy of a repository from a remote branch or on your local branch so you can modify it.
+3. Branches are spinoffs from the current branch that allow expirements to be made without affecting the main coding branch.
+
+
