@@ -12,4 +12,6 @@ Describe the differences between forks, clones, and branches. When would you use
 2. Clones made a copy of a repository from a remote branch or on your local branch so you can modify it.
 3. Branches are spinoffs from the current branch that allow expirements to be made without affecting the main coding branch.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
 
+1. Able to update offline.
